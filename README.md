@@ -34,11 +34,10 @@ This project helped me to understand the practical use cases of JavaScript and b
 ## Installation :notebook:
 To install the Todo List app, use git:
 ```
-git clone https://github.com/Kumardinesh1908/Todo-List-App.git
+
 ```
 To deploy this project, simply open the index.html file in your browser.
 
 ## Live Demo
 ```
-https://kumardinesh1908.github.io/Todo-List-App/
 ```
